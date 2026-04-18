@@ -2,7 +2,7 @@
 # Information Security Analyst | SOC Analyst
 
 ## About Me
-I am a Masters Student in TU Ilmenau in Informatik specializing in cybersecurity
+Hi there 👋 I am a Masters Student in TU Ilmenau in Informatik specializing in cybersecurity
 
 ## Skills Stack
 <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,linux"/>
